@@ -1,7 +1,7 @@
 =meta: 0.0.2
 
 name: Acme-Math-XS
-version: 0.0.1
+version: 0.0.2
 abstract: Math is HARD (faster)
 homepage: https://metacpan.org/release/Acme-Math-XS
 language: perl
