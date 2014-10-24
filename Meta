@@ -1,0 +1,25 @@
+=meta: 0.0.2
+
+name: Acme-Math-XS
+version: 0.0.1
+abstract: Math is HARD (faster)
+homepage: https://metacpan.org/release/Acme-Math-XS
+language: perl
+license: perl
+copyright: 2014
+
+author:
+  name: Ingy döt Net
+  email: ingy@cpan.org
+  homepage: http://ingy.net
+  github: ingydotnet
+  twitter: ingydotnet
+  freenode: ingy
+
+devel:
+  git: https://github.com/ingydotnet/acme-math-xs-pm
+  bug: https://github.com/ingydotnet/acme-math-xs-pm/issues
+  irc: irc.freenode.net#pkg
+
+requires:
+  perl: 5.8.1
