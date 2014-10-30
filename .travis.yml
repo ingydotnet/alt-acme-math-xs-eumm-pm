@@ -19,6 +19,8 @@ perl:
 install:
 - cpanm --quiet --notest
   Devel::Cover::Report::Coveralls
+  Inline
+  Inline::C
 
 script:
 - test -e test &&

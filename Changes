@@ -1,4 +1,10 @@
 ---
+version: 0.0.3
+date:    Thu Oct 30 19:07:43 UTC 2014
+changes:
+- Require Inline and Inline::C as prereqs for now
+- Fix cpantesters failures
+---
 version: 0.0.2
 date:    Fri Oct 24 05:10:57 UTC 2014
 changes:

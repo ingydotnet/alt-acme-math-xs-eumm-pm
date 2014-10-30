@@ -3,7 +3,7 @@ use warnings;
 package Acme::Math::XS::Inline;
 
 # TODO: Make sure this is latest version (self-check).
-our $INLINE_VERSION = '0.0.2';
+our $INLINE_VERSION = '0.0.3';
 
 use File::Path;
 BEGIN { File::Path::mkpath('./blib') unless -d './blib' }

@@ -1,6 +1,6 @@
 use strict; use warnings;
 package Acme::Math::XS;
-our $VERSION = '0.0.2';
+our $VERSION = '0.0.3';
 
 use Exporter 'import';
 our @EXPORT = qw(
