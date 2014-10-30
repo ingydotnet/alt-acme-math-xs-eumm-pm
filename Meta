@@ -1,7 +1,7 @@
 =meta: 0.0.2
 
 name: Acme-Math-XS
-version: 0.0.4
+version: 0.0.5
 abstract: Math is HARD (faster)
 homepage: https://metacpan.org/release/Acme-Math-XS
 language: perl
@@ -19,7 +19,7 @@ author:
 devel:
   git: https://github.com/ingydotnet/acme-math-xs-pm
   bug: https://github.com/ingydotnet/acme-math-xs-pm/issues
-  irc: irc.freenode.net#pkg
+  irc: irc.perl.org#inline
 
 requires:
   perl: 5.8.1

@@ -1,4 +1,9 @@
 ---
+version: 0.0.5
+date:    Thu Oct 30 20:31:20 UTC 2014
+changes:
+- Switch irc channel in Meta
+---
 version: 0.0.4
 date:    Thu Oct 30 20:28:22 UTC 2014
 changes:
