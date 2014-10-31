@@ -9,6 +9,7 @@
 use strict;
 use warnings;
 package Acme::Math::XS::Inline;
+use base 'Inline';
 
 use Inline::Module 'v1' => '0.02';
 
