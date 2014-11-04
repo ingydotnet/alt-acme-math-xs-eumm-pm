@@ -3,7 +3,7 @@ use warnings;
 
 use 5.008001;
 
-use ExtUtils::MakeMaker;
+use Inline::Module::MakeMaker;
 
 my %WriteMakefileArgs = (
   "ABSTRACT" => "Math is HARD (faster)",
