@@ -21,8 +21,10 @@ my %WriteMakefileArgs = (
   "INLINE" => {
       # This is the ILSM to ship. Need to allow for multiple.
       "ILSM" => "Inline::C",
-      # This is the generated module. Need to allow for multiple.
-      "module" => "Acme::Math::XS::Inline",
+      # This is the module with the inline code. Can be array ref.
+      "module" => "Acme::Math::XS",
+      # This is the generated module. Can be array ref.
+      "inline" => "Acme::Math::XS::Inline",
   },
   "LICENSE" => "perl",
   "MIN_PERL_VERSION" => "5.008001",
