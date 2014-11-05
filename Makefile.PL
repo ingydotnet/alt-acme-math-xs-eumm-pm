@@ -13,6 +13,9 @@ my %WriteMakefileArgs = (
   },
   "DISTNAME" => "Acme-Math-XS",
   "EXE_FILES" => [],
+  "INLINE" => {
+      "ILSM" => "Inline::C",
+  },
   "LICENSE" => "perl",
   "MIN_PERL_VERSION" => "5.008001",
   "NAME" => "Acme::Math::XS",
