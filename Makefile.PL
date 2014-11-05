@@ -19,7 +19,7 @@ my %WriteMakefileArgs = (
   "EXE_FILES" => [],
   # Need an INLINE section like this
   "INLINE" => {
-      # This is the ILSM to ship. Need to allow for multiple.
+      # This is the ILSM to ship. Can be array ref.
       "ILSM" => "Inline::C",
       # This is the module with the inline code. Can be array ref.
       "module" => "Acme::Math::XS",
