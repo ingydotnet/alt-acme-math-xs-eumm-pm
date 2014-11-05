@@ -4,6 +4,11 @@ META.json
 META.yml
 Makefile.PL
 README
+inc/Acme/Math/XS/Inline.pm
+inc/Inline/C.pm
+inc/Inline/Module/MakeMaker.pm
+inc/Inline/Module.pm
+inc/Inline.pm
 lib/Acme/Math/XS.pm
 lib/Acme/Math/XS.pod
 lib/Acme/Math/XS/Inline.pm
