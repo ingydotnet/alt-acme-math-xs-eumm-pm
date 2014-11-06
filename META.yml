@@ -24,4 +24,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/acme-math-xs-pm/issues
   homepage: https://github.com/ingydotnet/acme-math-xs-pm
   repository: https://github.com/ingydotnet/acme-math-xs-pm.git
-version: 0.0.5
+version: 0.0.6

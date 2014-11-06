@@ -1,4 +1,11 @@
 ---
+version: 0.0.6
+date:    Thu Oct 30 20:31:20 UTC 2014
+changes:
+- First fully working version
+- Builds and installs right things at right times
+- Has a few tiny things to polish yet
+---
 version: 0.0.5
 date:    Thu Oct 30 20:31:20 UTC 2014
 changes:
