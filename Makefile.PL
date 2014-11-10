@@ -8,8 +8,8 @@ use ExtUtils::MakeMaker;
 use lib 'inc'; use Inline::Module::MakeMaker;
 
 WriteMakefile(
-  NAME => 'Acme::Math::XS',
-  VERSION => '0.0.6',
+  NAME => 'Alt::Acme::Math::XS::EUMM',
+  VERSION => '0.0.1',
   ABSTRACT => 'Math is HARD (faster)',
   AUTHOR => 'Ingy döt Net <ingy@cpan.org>',
   LICENSE => 'perl',

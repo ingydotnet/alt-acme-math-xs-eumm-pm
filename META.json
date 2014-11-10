@@ -1,4 +1,6 @@
 {
+   "name" : "Alt-Acme-Math-XS-EUMM",
+   "version" : "0.0.1",
    "abstract" : "Math is HARD (faster)",
    "author" : [
       "Ingy döt Net <ingy@cpan.org>"
@@ -12,9 +14,9 @@
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : "2"
    },
-   "name" : "Acme-Math-XS",
    "no_index" : {
       "directory" : [
+         "lib/Acme",
          "inc",
          "t",
          "xt",
@@ -34,8 +36,6 @@
       },
       "runtime" : {
          "requires" : {
-            "Inline" : "0.77",
-            "Inline::C" : "0.64",
             "perl" : "v5.8.1"
          }
       }
@@ -43,15 +43,13 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/ingydotnet/acme-math-xs-pm/issues"
+         "web" : "https://github.com/ingydotnet/alt-acme-math-xs-eumm-pm/issues"
       },
-      "homepage" : "https://github.com/ingydotnet/acme-math-xs-pm",
+      "homepage" : "https://github.com/ingydotnet/alt-acme-math-xs-eumm-pm",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/ingydotnet/acme-math-xs-pm.git",
-         "web" : "https://github.com/ingydotnet/acme-math-xs-pm"
+         "url" : "https://github.com/ingydotnet/alt-acme-math-xs-eumm-pm.git",
+         "web" : "https://github.com/ingydotnet/alt-acme-math-xs-eumm-pm"
       }
-   },
-   "version" : "0.0.6"
+   }
 }
-
