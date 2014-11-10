@@ -1,33 +1,5 @@
 ---
-version: 0.0.6
-date:    Thu Oct 30 20:31:20 UTC 2014
-changes:
-- First fully working version
-- Builds and installs right things at right times
-- Has a few tiny things to polish yet
----
-version: 0.0.5
-date:    Thu Oct 30 20:31:20 UTC 2014
-changes:
-- Switch irc channel in Meta
----
-version: 0.0.4
-date:    Thu Oct 30 20:28:22 UTC 2014
-changes:
-- Require latest Inline and Inline::C
----
-version: 0.0.3
-date:    Thu Oct 30 19:07:43 UTC 2014
-changes:
-- Require Inline and Inline::C as prereqs for now
-- Fix cpantesters failures
----
-version: 0.0.2
-date:    Fri Oct 24 05:10:57 UTC 2014
-changes:
-- Use generated Acme::Math::XS::Inline
----
 version: 0.0.1
-date:    Fri Oct 24 01:55:59 UTC 2014
+date:    Mon Nov 10 18:54:30 UTC 2014
 changes:
 - First Release
